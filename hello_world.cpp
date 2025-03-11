@@ -1,2 +1,2 @@
-cout << "Hello World!" << endl;
+cout << "Hello!" << endl;
 cout << "My name is Mariah!" << endl;
